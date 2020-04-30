@@ -4,6 +4,8 @@ Kaggle competition- https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-c
 ### Downlaod the Dataset from Kaggle
 https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/data
 
+We have used Bert Multilingual model to classify the comment toxic or not. The entire traning code is made on TPU (Tensor Processing Unit) and testing code on GPU (Graphical Processing Unit). 
+
 This contains the text of a comment which has been classified as toxic or non-toxic (0...1 in the toxic column). The train set’s comments are entirely in english and come either from Civil Comments or Wikipedia talk page edits. The test data's comment_text columns are composed of multiple non-English languages.
 
 The *-train.csv files and validation.csv file also contain a toxic column that is the target to be trained on.
