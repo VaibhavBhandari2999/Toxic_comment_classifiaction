@@ -37,4 +37,6 @@ Predicting the probability that a comment is toxic. A toxic comment would receiv
 
 ##### Output
 - Got an Accuarcy ho 88.57%.
+![Capture](https://user-images.githubusercontent.com/37845653/80714126-1cf96500-8b12-11ea-9d03-ecf45ca7c539.JPG)
+
 
